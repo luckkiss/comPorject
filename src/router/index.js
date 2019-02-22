@@ -19,7 +19,7 @@ const MineIndex = ()=>import('../components/MineFragment/MineIndex');
 const CoinsIndex = ()=>import('../components/CoinsRecharge/CoinsIndex');
 
 const RoomIndex = ()=>import('../components/RoomFragment/RoomIndex');
-const RoomDemo = ()=>import('../components/RoomFragment/RoomDemo');
+// const RoomDemo = ()=>import('../components/RoomFragment/RoomDemo');
 const FrameContent = ()=>import('../common/FrameContent');
 const VipContent = ()=>import('../components/MineFragment/VipContent');
 const MailIndex = ()=>import('../components/MailFragment/MailIndex');
